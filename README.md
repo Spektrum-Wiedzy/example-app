@@ -13,7 +13,7 @@ After installation is complete, copy and past app key from the last line to .env
 
 ### Composer
 
-You can also install PHP and Composer on your computer:
+You can also install PHP 8 and Composer on your computer:
 https://laravel.com/docs/8.x/installation#installation-via-composer
 
 Using this method, you must have working and configured database. Please visit `/install` for installation wizard or edit .env file manually. 
