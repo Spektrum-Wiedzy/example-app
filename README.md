@@ -16,6 +16,8 @@ cp .env.example .env
 
 ./vendor/bin/sail up
 
+sail composer install
+
 sail artisan migrate:fresh --seed
 
 sail artisan key:generate --show
@@ -36,6 +38,8 @@ Clone this app from github and run:
 cd example-app
 
 cp .env.example .env
+
+composer install
 
 php artisan key:generate
 
