@@ -9,7 +9,7 @@ You can find more details on official Laravel documentation: https://laravel.com
 
 Clone this app from github and run install.sh.
 
-After installation copy and past app key from last line to .env APP_KEY variable.
+After installation is complete, copy and past app key from the last line to .env APP_KEY variable.
 
 ### Composer
 
