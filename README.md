@@ -7,23 +7,9 @@
 Highly recommended way to install this app is Laravel Sail - built-in solution for running your Laravel project using Docker. 
 You can find more details on official Laravel documentation: https://laravel.com/docs/8.x/installation#your-first-laravel-project.
 
-Clone this app from github and run:
+Clone this app from github and run install.sh.
 
-```
-cd example-app
-
-cp .env.example .env
-
-./vendor/bin/sail up
-
-sail composer install
-
-sail artisan migrate:fresh --seed
-
-sail artisan key:generate --show
-```
-
-Paste key to .env APP_KEY.
+After installation copy and past app key from last line to .env APP_KEY variable.
 
 ### Composer
 
