@@ -12,9 +12,9 @@ Clone this app from github and run:
 ```
 cd example-app
 
-./vendor/bin/sail up
-
 cp .env.example .env
+
+./vendor/bin/sail up
 
 sail artisan migrate:fresh --seed
 
