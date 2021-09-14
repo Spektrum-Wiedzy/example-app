@@ -23,7 +23,7 @@ you may need to run `./vendor/bin/sail build`, and then run install.sh one more 
 You can also install PHP 8 and Composer on your computer:
 https://laravel.com/docs/8.x/installation#installation-via-composer
 
-Using this method, you must have working and configured database. Please visit `/install` for installation wizard or edit .env file manually. 
+Using this method, you have to have working and configured database. Please visit `/install` for installation wizard or edit .env file manually. 
 You may want to use SQLite: https://laravel.com/docs/8.x/database#sqlite-configuration
 
 Clone this app from github and run:
