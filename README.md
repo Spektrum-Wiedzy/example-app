@@ -24,7 +24,7 @@ You can also install PHP 8 and Composer on your computer:
 https://laravel.com/docs/8.x/installation#installation-via-composer
 
 Using this method, you must have working and configured database. Please visit `/install` for installation wizard or edit .env file manually. 
-You may use SQLite: https://laravel.com/docs/8.x/database#sqlite-configuration
+You may want to use SQLite: https://laravel.com/docs/8.x/database#sqlite-configuration
 
 Clone this app from github and run:
 
